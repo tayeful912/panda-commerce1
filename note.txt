@@ -1,2 +1,17 @@
 https://programminghero1.github.io/panda-commerce/
 
+
+card section
+
+https://getbootstrap.com/docs/5.1/components/card/
+
+to remove border
+
+https://getbootstrap.com/docs/5.1/utilities/borders/
+
+border-0
+
+
+
+
+
