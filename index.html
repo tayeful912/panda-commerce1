@@ -17,7 +17,7 @@
 
 
     <header class="container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="">
@@ -33,13 +33,13 @@
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Shoes</a>
+                            <a class="nav-link" href="#shoes">Shoes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Backpack</a>
+                            <a class="nav-link" href="#backpack">Backpack</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">subcribe</a>
+                            <a class="nav-link" href="#subs">Subscribe</a>
                         </li>
 
 
@@ -50,6 +50,7 @@
             </div>
         </nav>
 
+        <!-- slider section -->
         <section>
 
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -192,7 +193,7 @@
         </section>
 
         <!-- shoes section -->
-        <section class="container mt-5">
+        <section class="container mt-5" id="shoes">
 
             <h1>Shoes</h1>
 
@@ -243,7 +244,9 @@
                 </div>
             </div>
         </section>
-        <section class="container mt-5">
+
+        <!-- Backpack section  -->
+        <section class="container my-5" id="backpack">
 
             <h1>Backpack</h1>
 
@@ -295,7 +298,33 @@
             </div>
         </section>
 
+
+        <!-- LET'S STAY IN TOUCH section -->
+        <section id="subs" class="container bg-info rounded-3 d-flex justify-content-center align-items-center"
+            style="height: 300px;">
+
+            <div>
+
+                <h1>LET'S STAY IN TOUCH</h1>
+                <p>Get updates on sales, specials and more
+                </p>
+                <input type="text" placeholder="Your Email">
+                <br>
+                <button class="btn btn-warning">SUBMIT</button>
+            </div>
+
+
+
+        </section>
+
     </main>
+
+    <footer class="container mt-4 text-center">
+
+
+        <p><small>©2022. Panda Commerce. All rights reserved. Sofia, Bulgaria.</small>
+        </p>
+    </footer>
 
     <!-- java script  -->
 

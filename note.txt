@@ -1,6 +1,18 @@
 https://programminghero1.github.io/panda-commerce/
 
 
+header section a nav-bar a fixed-top tag use kora nab-bar ke top a fixed kore rakha hoiche
+
+nav bar manu gula id use kora hoiche
+
+jemon
+<a class="nav-link" href="#shoes">Shoes</a>
+#shoes
+
+and shoes section a class ar modde id="shoes" use kora hoiche jate kore nav thaka manu click korle shoes sectionchole jete pare
+
+
+
 card section
 
 https://getbootstrap.com/docs/5.1/components/card/
@@ -10,6 +22,25 @@ to remove border
 https://getbootstrap.com/docs/5.1/utilities/borders/
 
 border-0
+
+backpack section a my-5 use kora hoiche  ei vartical mane top and nicher dike margin dibe 5  5 kore
+
+
+
+
+https://getbootstrap.com/docs/5.1/utilities/flex/#justify-content
+
+https://getbootstrap.com/docs/5.1/utilities/flex/#align-items
+
+<!-- LET'S STAY IN TOUCH section --> section a div ar modde element gula rakaha hoiche jate kore justify-content-content use kore div ke child hishebe ney
+
+footer section
+
+https://getbootstrap.com/docs/5.1/utilities/text/#text-alignment
+
+text-center korar time a footer jodi sodo likha thake tahole  footer tag modde class dia text align korete hobe 
+ footer tag ar modde p ,small tag modde use korle kaj korbe na
+
 
 
 
