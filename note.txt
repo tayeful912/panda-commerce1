@@ -42,6 +42,10 @@ text-center korar time a footer jodi sodo likha thake tahole  footer tag modde c
  footer tag ar modde p ,small tag modde use korle kaj korbe na
 
 
+form control dia form ta thik kora hoiche
+ https://getbootstrap.com/docs/5.1/forms/form-control/
+
+
 
 
 
